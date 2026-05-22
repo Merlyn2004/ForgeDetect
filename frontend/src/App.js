@@ -9,12 +9,12 @@ import RegionsPlugin from "wavesurfer.js/dist/plugins/regions.esm.js";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAFRdkrpqX8Vm1fA9XgwAcFAUcfmCdFvHw",
-  authDomain: "forgedetect-fdc1e.firebaseapp.com",
-  projectId: "forgedetect-fdc1e",
-  storageBucket: "forgedetect-fdc1e.firebasestorage.app",
-  messagingSenderId: "349091783187",
-  appId: "1:349091783187:web:9e758fbc0eaff6e73895e6"
+  apiKey: "Your_api_key",
+  authDomain: "Your_authdomain",
+  projectId: "Your_projectId",
+  storageBucket: "Your_storageBucket",
+  messagingSenderId: "Your_messageSenderId",
+  appId: "Your_appid"
 };
 
 
